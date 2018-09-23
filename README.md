@@ -9,9 +9,11 @@
 - Output redirection:      *OR cmd -> target*  
 - Pipe fuction:      *PP cmd1 -> cmd2* 
 
-.
+
 >The welcome page:
 ![p096_sudoku.txt](https://raw.githubusercontent.com/MikasaG/Simple-Unix-Shell/master/images/1.PNG)
-.
+
+
 >Some simple commands:
+
 ![Sample Result](https://raw.githubusercontent.com/MikasaG/Simple-Unix-Shell/master/images/2.PNG)
