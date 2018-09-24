@@ -11,9 +11,9 @@
 
 
 >The welcome page:
-![p096_sudoku.txt](https://raw.githubusercontent.com/MikasaG/Simple-Unix-Shell/master/images/1.PNG)
+![welcome page](https://raw.githubusercontent.com/MikasaG/Simple-Unix-Shell/master/images/1.PNG)
 
 
 >Some simple commands:
 
-![Sample Result](https://raw.githubusercontent.com/MikasaG/Simple-Unix-Shell/master/images/2.PNG)
+![Sample commands](https://raw.githubusercontent.com/MikasaG/Simple-Unix-Shell/master/images/2.PNG)
